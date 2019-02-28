@@ -1,4 +1,3 @@
-pip install --upgrade pip
 pandas
 numpy
 bs4
