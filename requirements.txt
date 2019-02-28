@@ -1,7 +1,6 @@
 pandas
 numpy
 bs4
-re
 itertools
 chardet
 nltk
