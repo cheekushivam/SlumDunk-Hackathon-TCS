@@ -1,7 +1,8 @@
+pip install --upgrade pip
 pandas
 numpy
 bs4
-itertools
+more-itertools
 chardet
 nltk
 requests
