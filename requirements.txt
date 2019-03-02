@@ -5,3 +5,4 @@ more-itertools
 chardet
 nltk
 requests
+xlrd
