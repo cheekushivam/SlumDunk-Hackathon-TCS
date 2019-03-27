@@ -8,3 +8,4 @@ requests
 xlrd
 seaborn
 matplotlib
+sklearn
