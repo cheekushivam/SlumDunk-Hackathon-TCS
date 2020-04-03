@@ -10,4 +10,3 @@ seaborn
 matplotlib
 sklearn
 flask
-statsmodel
