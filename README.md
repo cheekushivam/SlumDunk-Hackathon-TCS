@@ -1,5 +1,5 @@
-# SlumDunk-Hackathon-TCS
-Hackathon Question Came In TCS Slum Dunk Hackathon (AI)
+# Book Information Chatbot with Exploratory Data Analysis on the Scraped Data
+
 
 # Binder link to open notebook in cloud
  * <a href="https://mybinder.org/v2/gh/cheekushivam/SlumDunk-Hackathon-TCS.git/master">Click Here To Open Notebook In Server</a>
